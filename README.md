@@ -10,7 +10,7 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ebratz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=ebratz&show_icons=true&theme=dark)](https://github.com/ebratz/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebratz)](https://github.com/anuraghazra/github-readme-stats)
 
