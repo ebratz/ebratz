@@ -10,7 +10,6 @@ I've been working with SAP since 2008, with IT since '98. I love software develo
 * 🌍  I'm based in São Paulo
 * 🖥️  See my portfolio at [ebratz.com](http://ebratz.com)
 * ✉️  You can contact me at [ebratz@gmail.com](mailto:ebratz@gmail.com)
-* 🚀  I'm currently working at [AWS](http://aws.amazon.com) 
 * 🧠  I'm learning Serverless and FullStack Development
 * ⚡  Looking forward to meet other entrepreneurs launching products
 
