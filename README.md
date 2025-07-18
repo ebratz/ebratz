@@ -2,16 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Eduardo Bratz
 =====================================================================================================================================
 
-Sr Partner Solution Architect - SAP Specialist
--------------------------
-
-I've been working with SAP since 2008, with IT since '98. I love software development, entrepreneurship and innovation topics. This is my personal Github Profile
-
-* 🌍  I'm based in São Paulo
-* 🖥️  See my portfolio at [ebratz.com](http://ebratz.com)
-* ✉️  You can contact me at [ebratz@gmail.com](mailto:ebratz@gmail.com)
-* 🧠  I'm learning Serverless and FullStack Development
-* ⚡  Looking forward to meet other entrepreneurs launching products
 
 
 
